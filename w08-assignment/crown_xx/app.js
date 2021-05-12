@@ -9,6 +9,7 @@ var usersRouter = require('./routes/users');
 
 const crown_xx_Router = require('./routes/crown_xx');
 const crown2_xx_Router = require('./routes/crown2_xx');
+const api_router = require('./routes/api');
 
 var app = express();
 
